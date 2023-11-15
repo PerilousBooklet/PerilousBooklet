@@ -10,9 +10,9 @@ WIP
 <br />
 
 #### Open source apps that I use
-[<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
-[<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
-[<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
+[<img align="left" alt="Firefox" width="26px" src="./images/firefox.svg" style="padding-right:10px;" />][firefox]
+[<img align="left" alt="Thunderbird" width="26px" src="./images/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
+[<img align="left" alt="KeepassXC" width="26px" src="./images/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
 
 <br />
 
