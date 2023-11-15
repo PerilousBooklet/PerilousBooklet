@@ -4,7 +4,7 @@ WIP
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-[<img align="left" alt="Arch Linux" width="26px" src="./images/arch.svg" style="padding-right:10px;" />][1]
+[<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][1]
 
 <br />
 <br />
