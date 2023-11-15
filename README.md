@@ -1,11 +1,11 @@
-### Presentation
+### Introduction
 WIP
 
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
 #### Open source operating systems that I use
-[<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][os1]
+[<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 
 <br />
 
@@ -14,8 +14,9 @@ WIP
 <br />
 
 #### Hardware that I use
-
-<br />
+- Desktop: Ryzen 5 1600, Radeon RX 6600
+- [Laptop][laptop]
+- [Zimaboard 216][zimaboard216]
 
 #### Books that I recommend
 
@@ -24,16 +25,17 @@ WIP
 <!-- Bibliography -->
 
 <!-- Operating systems -->
-[os1]: https://archlinux.org/
+[arch]: https://archlinux.org/
 
 <!-- Apps -->
-[oa1]: 
+[firefox]: https://www.mozilla.org/en-US/firefox/new/
 
 <!-- Hardware -->
-[hw1]: 
+[laptop]: https://laptopwithlinux.com/
+[zimaboard216]: https://shop.zimaboard.com/products/zimaboard-single-board-server
 
 <!-- Books -->
-[b1]: 
+<!-- [b1]:  -->
  
 <!--
 **PerilousBooklet/PerilousBooklet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
