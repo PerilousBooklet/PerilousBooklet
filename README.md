@@ -8,13 +8,18 @@ WIP
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][os1]
 
 <br />
-<br />
 
 #### Open source apps that I use
 
+<br />
+
 #### Hardware that I use
 
+<br />
+
 #### Books that I recommend
+
+<br />
 
 <!-- Bibliography -->
 
