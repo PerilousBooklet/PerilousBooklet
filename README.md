@@ -4,25 +4,32 @@ WIP
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-[<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][1]
-
-<br />
-<br />
-
 #### Open source operating systems that I use
-<!-- grid -->
+[<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][os1]
+
+<br />
+<br />
 
 #### Open source apps that I use
-<!-- grid -->
 
 #### Hardware that I use
-<!-- grid -->
 
 #### Books that I recommend
-<!-- grid -->
 
-[1]: https://archlinux.org/
+<!-- Bibliography -->
 
+<!-- Operating systems -->
+[os1]: https://archlinux.org/
+
+<!-- Apps -->
+[oa1]: 
+
+<!-- Hardware -->
+[hw1]: 
+
+<!-- Books -->
+[b1]: 
+ 
 <!--
 **PerilousBooklet/PerilousBooklet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
