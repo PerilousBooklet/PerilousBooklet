@@ -6,6 +6,9 @@ WIP
 
 [<img align="left" alt="Arch Linux" width="26px" src="./images/arch.svg" style="padding-right:10px;" />][1]
 
+<br />
+<br />
+
 #### Open source operating systems that I use
 <!-- grid -->
 
