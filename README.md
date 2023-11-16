@@ -1,6 +1,3 @@
-### Introduction
-WIP
-
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
