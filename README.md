@@ -18,7 +18,7 @@
 - [Laptop][laptop]
 - [Zimaboard 216][zimaboard216]
 
-#### Books that I recommend
+<!-- #### Books that I recommend -->
 
 <br />
 
