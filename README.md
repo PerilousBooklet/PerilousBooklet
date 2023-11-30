@@ -7,14 +7,14 @@
 <br />
 
 #### Open source apps that I use
-[<img align="left" alt="Firefox" width="26px" src="./images/firefox.svg" style="padding-right:10px;" />][firefox]
-[<img align="left" alt="Thunderbird" width="26px" src="./images/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
-[<img align="left" alt="KeepassXC" width="26px" src="./images/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
-[<img align="left" alt="Element Desktop" width="26px" src="./images/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
-[<img align="left" alt="Zulip" width="26px" src="./images/zulip.svg" style="padding-right:10px;" />][zulip]
-[<img align="left" alt="FreeTube" width="26px" src="./images/freetube-bin.svg" style="padding-right:10px;" />][freetube]
-[<img align="left" alt="Xournal++" width="26px" src="./images/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
-[<img align="left" alt="Lite XL" width="26px" src="./images/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
+[<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
+[<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
+[<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
+[<img align="left" alt="Element Desktop" width="26px" src="./icons/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
+[<img align="left" alt="Zulip" width="26px" src="./icons/zulip.svg" style="padding-right:10px;" />][zulip]
+[<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
+[<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
+[<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 
 <br />
 
