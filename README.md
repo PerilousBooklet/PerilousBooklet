@@ -13,7 +13,8 @@
 [<img align="left" alt="Element Desktop" width="26px" src="./images/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
 [<img align="left" alt="Zulip" width="26px" src="./images/zulip.svg" style="padding-right:10px;" />][zulip]
 [<img align="left" alt="FreeTube" width="26px" src="./images/freetube-bin.svg" style="padding-right:10px;" />][freetube]
-[<img align="left" alt="FreeTube" width="26px" src="./images/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
+[<img align="left" alt="Xournal++" width="26px" src="./images/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
+[<img align="left" alt="Lite XL" width="26px" src="./images/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 
 <br />
 
@@ -39,6 +40,7 @@
 [zulip]: https://zulip.com/
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
+[lite-xl]: https://lite-xl.com/
 
 <!-- Hardware -->
 [laptop]: https://laptopwithlinux.com/
