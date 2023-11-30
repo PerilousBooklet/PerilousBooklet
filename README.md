@@ -12,7 +12,7 @@
 [<img align="left" alt="KeepassXC" width="26px" src="./images/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
 [<img align="left" alt="Element Desktop" width="26px" src="./images/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
 [<img align="left" alt="Zulip" width="26px" src="./images/zulip.svg" style="padding-right:10px;" />][zulip]
-[<img align="left" alt="FreeTube" width="26px" src="./images/freetube.svg" style="padding-right:10px;" />][freetube]
+[<img align="left" alt="FreeTube" width="26px" src="./images/freetube-bin.svg" style="padding-right:10px;" />][freetube]
 
 <br />
 
