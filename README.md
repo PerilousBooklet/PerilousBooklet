@@ -38,6 +38,7 @@
 [element-desktop]: https://element.io/
 [zulip]: https://zulip.com/
 [freetube]: https://freetubeapp.io/
+[xournalpp]: https://xournalpp.github.io/
 
 <!-- Hardware -->
 [laptop]: https://laptopwithlinux.com/
