@@ -39,10 +39,6 @@
 - [Laptop][laptop]
 - [Zimaboard 216][zimaboard216]
 
-<!-- #### Books that I recommend -->
-
-<br />
-
 <!-- Bibliography -->
 
 <!-- Operating systems -->
