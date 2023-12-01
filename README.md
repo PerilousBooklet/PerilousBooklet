@@ -32,8 +32,6 @@
 - [Kellan Elliot-McCrea](https://laughingmeme.org/)
 - [Leon Henry Plickat](https://leon_plickat.srht.site/writing.html)
 
-<br />
-
 #### Hardware that I use
 - Desktop: Ryzen 5 1600, Radeon RX 6600
 - [Laptop][laptop]
