@@ -18,6 +18,14 @@
 
 <br />
 
+#### Open source games that are actually good
+[<img align="left" alt="0AD" width="26px" src="./icons/0ad.svg" style="padding-right:10px;" />][0ad]
+[<img align="left" alt="Xonotic" width="26px" src="./icons/xonotic.svg" style="padding-right:10px;" />][xonotic]
+[<img align="left" alt="SuperTuxKart" width="26px" src="./icons/supertuxkart.svg" style="padding-right:10px;" />][supertuxkart]
+[<img align="left" alt="Veloren" width="26px" src="./icons/veloren.svg" style="padding-right:10px;" />][veloren]
+
+<br />
+
 #### Hardware that I use
 - Desktop: Ryzen 5 1600, Radeon RX 6600
 - [Laptop][laptop]
@@ -41,6 +49,11 @@
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
+
+[0ad]: https://play0ad.com/
+[xonotic]: https://xonotic.org/
+[supertuxkart]: https://supertuxkart.net/Main_Page
+[veloren]: https://veloren.net/
 
 <!-- Hardware -->
 [laptop]: https://laptopwithlinux.com/
