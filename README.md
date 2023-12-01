@@ -31,6 +31,7 @@
 - [John Lin's thoughts](https://voxely.net/blog/)
 - [Kellan Elliot-McCrea](https://laughingmeme.org/)
 - [Leon Henry Plickat](https://leon_plickat.srht.site/writing.html)
+- [Protesilaus Stavrou](https://protesilaos.com/)
 
 #### Hardware that I use
 - Desktop: Ryzen 5 1600, Radeon RX 6600
