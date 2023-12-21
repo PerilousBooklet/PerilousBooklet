@@ -43,6 +43,7 @@
 
 <!-- Operating systems -->
 [arch]: https://archlinux.org/
+[linux-mint]: https://www.linuxmint.com/
 
 <!-- Apps -->
 [firefox]: https://www.mozilla.org/en-US/firefox/new/
