@@ -18,11 +18,8 @@
 <br />
 
 #### Open source services that I use
-[Fontello.com](https://fontello.com/)
-[]()
-<!-- [Mythic Table]() -->
-
-<br />
+[Fontello](https://fontello.com/)
+[Mythic Table](https://www.mythictable.com/)
 
 #### Open source apps that I use
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
