@@ -1,9 +1,26 @@
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
+<!-- #### Info ? -->
+<!-- - 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm) -->
+<!-- - 🌱 I’m currently learning Lua -->
+<!-- - 👯 I’m looking to collaborate on ? -->
+<!-- - 🤔 I’m looking for help with documenting Lite XL -->
+<!-- - 💬 Ask me about Arch Linux, ? -->
+<!-- - 📫 How to reach me: @perilousbooklet:matrix.org -->
+<!-- - 😄 Pronouns: he/him -->
+<!-- - ⚡ Fun fact: ? -->
+
 #### Open source operating systems that I use
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 [<img align="left" alt="Linux Mint" width="26px" src="./icons/linux-mint.svg" style="padding-right:10px;" />][linux-mint]
+
+<br />
+
+#### Open source services that I use
+[Fontello.com](https://fontello.com/)
+[]()
+<!-- [Mythic Table]() -->
 
 <br />
 
@@ -16,6 +33,8 @@
 [<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
+[<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
+[<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <br />
 
@@ -54,6 +73,8 @@
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
+[godot]: https://godotengine.org/
+[heroic-games-launcher]: https://heroicgameslauncher.com/
 
 [0ad]: https://play0ad.com/
 [xonotic]: https://xonotic.org/
