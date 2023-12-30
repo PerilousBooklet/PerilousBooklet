@@ -18,7 +18,7 @@
 <br />
 
 #### Open source services that I use
-[Fontello](https://fontello.com/)
+[<p style="padding-right:10px;">Fontello</p>](https://fontello.com/)
 [Mythic Table](https://www.mythictable.com/)
 
 #### Open source apps that I use
