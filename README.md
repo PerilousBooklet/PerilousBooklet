@@ -11,7 +11,7 @@
 <!-- - 😄 Pronouns: he/him -->
 <!-- - ⚡ Fun fact: ? -->
 
-<a href="./TODO.md"><h1>Projects</h1></a>
+<a href="./TODO.md">Projects</a>
 <br />
 
 #### Open source operating systems that I use
