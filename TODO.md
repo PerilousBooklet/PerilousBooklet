@@ -1,0 +1,11 @@
+# TODO List
+- [] lite-xl-ptm
+- [] lite-xl-docs
+- [] write-xl-bin AUR package
+- [] open world game pt.1
+- [] dashboard app with java, awt and swing
+- [] tomorrow night themes
+- [] ATX pc case based on the Lian-Li PC-Q21 design (tools: freecad)
+- [] diy stream deck (tools: kicad, freecad)
+- [] static website for presenting/archiving markdown files, organized in a folder hierarchy
+- [] 
