@@ -16,7 +16,6 @@
 
 #### Open source operating systems that I use
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
-[<img align="left" alt="Linux Mint" width="26px" src="./icons/linux-mint.svg" style="padding-right:10px;" />][linux-mint]
 
 <br />
 
