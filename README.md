@@ -11,9 +11,6 @@
 <!-- - 😄 Pronouns: he/him -->
 <!-- - ⚡ Fun fact: ? -->
 
-<a href="./TODO.md">Projects</a>
-<br />
-
 #### Open source operating systems that I use
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 
