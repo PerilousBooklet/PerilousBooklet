@@ -1,14 +1,14 @@
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-<!-- #### Info ? -->
-<!-- - 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm) -->
-<!-- - 🌱 I’m currently learning Lua -->
+#### Info
+- 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm)
+- 🌱 I’m currently learning Lua
 <!-- - 👯 I’m looking to collaborate on ? -->
 <!-- - 🤔 I’m looking for help with documenting Lite XL -->
 <!-- - 💬 Ask me about Arch Linux, ? -->
-<!-- - 📫 How to reach me: @perilousbooklet:matrix.org -->
-<!-- - 😄 Pronouns: he/him -->
+- 📫 How to reach me: @perilousbooklet:matrix.org
+- 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ? -->
 
 #### Open source operating systems that I use
