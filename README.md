@@ -40,20 +40,6 @@
 [<img align="left" alt="SuperTuxKart" width="26px" src="./icons/supertuxkart.svg" style="padding-right:10px;" />][supertuxkart]
 [<img align="left" alt="Veloren" width="26px" src="./icons/veloren.svg" style="padding-right:10px;" />][veloren]
 
-<br />
-
-#### Stimulating blogs
-- [Chris Titus](https://christitus.com/)
-- [John Lin's thoughts](https://voxely.net/blog/)
-- [Kellan Elliot-McCrea](https://laughingmeme.org/)
-- [Leon Henry Plickat](https://leon_plickat.srht.site/writing.html)
-- [Protesilaus Stavrou](https://protesilaos.com/)
-
-#### Hardware that I use
-- Desktop: Ryzen 5 1600, Radeon RX 6600
-- [Laptop][laptop]
-- [Zimaboard 216][zimaboard216]
-
 <!-- Bibliography -->
 
 <!-- Operating systems -->
