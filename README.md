@@ -30,6 +30,7 @@
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 [<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
+[<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <br />
@@ -57,6 +58,7 @@
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
 [godot]: https://godotengine.org/
+[lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
 
 [0ad]: https://play0ad.com/
