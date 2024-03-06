@@ -2,14 +2,14 @@
 <!-- http://shields.io -->
 
 #### Info
-- 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm)
+<!-- - 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm) -->
+- 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
 - 🌱 I’m currently learning Lua
 <!-- - 👯 I’m looking to collaborate on ? -->
 <!-- - 🤔 I’m looking for help with documenting Lite XL -->
 <!-- - 💬 Ask me about Arch Linux, ? -->
 - 📫 How to reach me: @perilousbooklet:matrix.org
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ? -->
 
 #### Open source operating systems that I use
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
@@ -18,7 +18,7 @@
 
 <!-- #### Open source services that I use -->
 <!-- [Fontello](https://fontello.com/) -->
-<!-- [Mythic Table](https://www.mythictable.com/) -->
+<!-- [Excalidraw](https://excalidraw.com/) -->
 
 #### Open source apps that I use
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
@@ -34,6 +34,28 @@
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <br />
+
+<!-- #### Programming languages that I use -->
+<!-- <p> -->
+<!--   [<img align="left" alt="C++" width="26px" src="./icons/cpp.svg" style="padding-right:10px;" />][cpp] -->
+<!--   [<img align="left" alt="Java" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
+<!--   [<img align="left" alt="Bash" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
+<!--   [<img align="left" alt="TeX" width="26px" src="./icons/tex.svg" style="padding-right:10px;" />][tex] -->
+<!--   [<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][r] -->
+<!--   [<img align="left" alt="Lua" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
+<!--   [<img align="left" alt="HTML" width="26px" src="./icons/html.svg" style="padding-right:10px;" />][html] -->
+<!--   [<img align="left" alt="CSS" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css] -->
+<!-- </p> -->
+
+<!-- #### Tools that I use -->
+<!-- <p> -->
+<!--   [<img align="left" alt="Git" width="26px" src="./icons/git.svg" style="padding-right:10px;" />][git] -->
+<!--   [<img align="left" alt="SSH" width="26px" src="./icons/ssh.svg" style="padding-right:10px;" />][ssh] -->
+<!--   [<img align="left" alt="Tmux" width="26px" src="./icons/tmux.svg" style="padding-right:10px;" />][tmux] -->
+<!--   [<img align="left" alt="Docker" width="26px" src="./icons/docker.svg" style="padding-right:10px;" />][docker] -->
+<!-- </p> -->
+
+<!-- <br /> -->
 
 #### Open source games that are actually good
 [<img align="left" alt="0AD" width="26px" src="./icons/0ad.svg" style="padding-right:10px;" />][0ad]
@@ -66,6 +88,22 @@
 [supertuxkart]: https://supertuxkart.net/Main_Page
 [mindustry]: https://mindustrygame.github.io/
 [veloren]: https://veloren.net/
+
+<!-- Programming Languages -->
+[cpp]: 
+[java]: 
+[bash]: 
+[lua]: 
+[tex]: 
+[r]: 
+[html]: 
+[css]: 
+
+<!-- Tools -->
+[git]: 
+[ssh]: 
+[tmux]: 
+[docker]: 
 
 <!-- Hardware -->
 [laptop]: https://laptopwithlinux.com/
