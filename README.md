@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Lua and C
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
-- 😄 Pronouns: he/him
 
 <!-- #### Open source hardware that I use -->
 <!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
