@@ -22,50 +22,52 @@
 
 ##### Productivity
 
-[<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
-[<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
-[<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
-[<img align="left" alt="Element Desktop" width="26px" src="./icons/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
-[<img align="left" alt="Zulip" width="26px" src="./icons/zulip.svg" style="padding-right:10px;" />][zulip]
-[<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
-[<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
-[<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
-[<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
+<div>
+  <div>
+    [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
+    [<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
+    [<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
+    [<img align="left" alt="Element Desktop" width="26px" src="./icons/element-desktop-bin.svg" style="padding-right:10px;" />][element-desktop]
+    [<img align="left" alt="Zulip" width="26px" src="./icons/zulip.svg" style="padding-right:10px;" />][zulip]
+    [<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
+    [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
+    [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
+  </div>
+  <div>
+    [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
+    [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
+    [<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
+    [<img align="left" alt="Blender" width="26px" src="./icons/blender.svg" style="padding-right:10px;" />][blender]
+    [<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
+    [<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
+    [<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
+    [<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
+    [<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs]
+    [<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
+    [<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
+    [<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
+  </div>
+  <div>
+    placeholder
+  </div>
+  <div>
+    placeholder
+  </div>
+  <div>
+    placeholder
+  </div>
+</div>
 
-<br />
 
-##### Art and Content Creation
 
-[<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
-[<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
-[<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
-[<img align="left" alt="Blender" width="26px" src="./icons/blender.svg" style="padding-right:10px;" />][blender]
-[<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
-[<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
-[<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
-[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs]
-[<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
-[<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
-[<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
 
-<br />
-
-##### 3D Printing and CAD/CAE/CAM
 
 [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
 [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
 [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
 
-<br />
-
-##### Gaming
-
 [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
-
-<br />
-
-#### Open source games that are actually good
 
 [<img align="left" alt="Mindustry" width="26px" src="./icons/mindustry.svg" style="padding-right:10px;" />][mindustry]
 [<img align="left" alt="Veloren" width="26px" src="./icons/veloren.svg" style="padding-right:10px;" />][veloren]
@@ -90,7 +92,7 @@
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
-[godot]: https://godotengine.org/
+
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
 
@@ -99,12 +101,14 @@
 [krita]: https://krita.org/en/
 [blender]: https://www.blender.org/
 [material-maker]: https://www.materialmaker.org/
+[godot]: https://godotengine.org/
 [olive]: https://www.olivevideoeditor.org/
 [natron]: https://natrongithub.github.io/
 [obs]: https://obsproject.com/
 [tenacity]: https://tenacityaudio.org/
 [ardour]: https://ardour.org/
 [lmms]: https://lmms.io/
+
 [openscad]: https://openscad.org/
 [freecad]: https://openscad.org/
 [kicad]: https://openscad.org/
