@@ -85,11 +85,13 @@
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
 
+[mindustry]: https://mindustrygame.github.io/
+[veloren]: https://veloren.net/
 [0ad]: https://play0ad.com/
 [xonotic]: https://xonotic.org/
 [supertuxkart]: https://supertuxkart.net/Main_Page
-[mindustry]: https://mindustrygame.github.io/
-[veloren]: https://veloren.net/
+[wesnoth]: https://www.wesnoth.org/
+[warzone2100]: https://wz2100.net/
 
 <!-- Programming Languages -->
 [cpp]: 
