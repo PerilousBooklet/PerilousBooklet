@@ -9,14 +9,13 @@
 - 📫 How to reach me: @perilousbooklet:matrix.org
 - 😄 Pronouns: he/him
 
+<!-- #### Open source hardware that I use -->
+<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
+
 #### Open source operating systems that I use
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 
 <br />
-
-<!-- #### Open source services that I use -->
-<!-- [Fontello](https://fontello.com/) -->
-<!-- [Excalidraw](https://excalidraw.com/) -->
 
 #### Open source apps that I use
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
@@ -33,27 +32,25 @@
 
 <br />
 
-<!-- #### Programming languages that I use -->
-<!-- <p> -->
-<!--   [<img align="left" alt="C++" width="26px" src="./icons/cpp.svg" style="padding-right:10px;" />][cpp] -->
-<!--   [<img align="left" alt="Java" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
-<!--   [<img align="left" alt="Bash" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
-<!--   [<img align="left" alt="TeX" width="26px" src="./icons/tex.svg" style="padding-right:10px;" />][tex] -->
-<!--   [<img align="left" alt="R" width="26px" src="./icons/r.svg" style="padding-right:10px;" />][r] -->
-<!--   [<img align="left" alt="Lua" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
-<!--   [<img align="left" alt="HTML" width="26px" src="./icons/html.svg" style="padding-right:10px;" />][html] -->
-<!--   [<img align="left" alt="CSS" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css] -->
-<!-- </p> -->
+[<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
+[<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
+[<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
+[<img align="left" alt="Blender" width="26px" src="./icons/blender.svg" style="padding-right:10px;" />][blender]
+[<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
+[<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
+[<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
+[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs-studio.svg" style="padding-right:10px;" />][obs-studio]
+[<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
+[<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
+[<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
 
-<!-- #### Tools that I use -->
-<!-- <p> -->
-<!--   [<img align="left" alt="Git" width="26px" src="./icons/git.svg" style="padding-right:10px;" />][git] -->
-<!--   [<img align="left" alt="SSH" width="26px" src="./icons/ssh.svg" style="padding-right:10px;" />][ssh] -->
-<!--   [<img align="left" alt="Tmux" width="26px" src="./icons/tmux.svg" style="padding-right:10px;" />][tmux] -->
-<!--   [<img align="left" alt="Docker" width="26px" src="./icons/docker.svg" style="padding-right:10px;" />][docker] -->
-<!-- </p> -->
+<br />
 
-<!-- <br /> -->
+[<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
+[<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
+[<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
+
+<br />
 
 #### Open source games that are actually good
 [<img align="left" alt="Mindustry" width="26px" src="./icons/mindustry.svg" style="padding-right:10px;" />][mindustry]
@@ -91,24 +88,3 @@
 [wesnoth]: https://www.wesnoth.org/
 [warzone2100]: https://wz2100.net/
 
-<!-- Hardware -->
-[laptop]: https://laptopwithlinux.com/
-[zimaboard216]: https://shop.zimaboard.com/products/zimaboard-single-board-server
-
-<!-- Books -->
-<!-- [b1]:  -->
- 
-<!--
-**PerilousBooklet/PerilousBooklet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
