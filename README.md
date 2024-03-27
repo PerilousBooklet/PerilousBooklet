@@ -20,6 +20,8 @@
 
 #### Open source apps that I use
 
+##### Productivity
+
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
 [<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
 [<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
@@ -29,12 +31,11 @@
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 [<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
-[<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
-[<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <br />
 
-#### s
+##### Art and Content Creation
+
 [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
 [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
 [<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
@@ -49,10 +50,18 @@
 
 <br />
 
-#### s
+##### 3D Printing and CAD/CAE/CAM
+
 [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
 [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
 [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
+
+<br />
+
+##### Gaming
+
+[<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
+[<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <br />
 
