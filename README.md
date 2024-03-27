@@ -20,8 +20,6 @@
 
 #### Open source apps that I use
 
-##### Productivity
-
 <div>
   <div>
     [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
