@@ -1,13 +1,6 @@
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-#### Info
-
-- 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
-- 🌱 I’m currently learning Lua and C
-- 💬 Ask me about Computers, Linux and things about Italy
-- 📫 How to reach me: @perilousbooklet:matrix.org
-
 <!-- #### Open source hardware that I use -->
 <!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
 
