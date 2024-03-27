@@ -39,7 +39,7 @@
 [<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
 [<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
 [<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
-[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs-studio]
+[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs]
 [<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
 [<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
 [<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
@@ -80,6 +80,21 @@
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
 
+[gimp]: https://www.gimp.org/
+[inkscape]: https://inkscape.org/
+[krita]: https://krita.org/en/
+[blender]: https://www.blender.org/
+[material-maker]: https://www.materialmaker.org/
+[olive]: https://www.olivevideoeditor.org/
+[natron]: https://natrongithub.github.io/
+[obs]: https://obsproject.com/
+[tenacity]: https://tenacityaudio.org/
+[ardour]: https://ardour.org/
+[lmms]: https://lmms.io/
+[openscad]: https://openscad.org/
+[freecad]: https://openscad.org/
+[kicad]: https://openscad.org/
+
 [mindustry]: https://mindustrygame.github.io/
 [veloren]: https://veloren.net/
 [0ad]: https://play0ad.com/
@@ -88,17 +103,3 @@
 [wesnoth]: https://www.wesnoth.org/
 [warzone2100]: https://wz2100.net/
 
-[gimp]: https://www.gimp.org/
-[inkscape]: https://inkscape.org/
-[krita]: https://krita.org/en/
-[blender]: https://www.blender.org/
-[material-maker]: https://www.materialmaker.org/
-[olive]: https://www.olivevideoeditor.org/
-[natron]: https://natrongithub.github.io/
-[obs-studio]: https://obsproject.com/
-[tenacity]: https://tenacityaudio.org/
-[ardour]: https://ardour.org/
-[lmms]: https://lmms.io/
-[openscad]: https://openscad.org/
-[freecad]: https://openscad.org/
-[kicad]: https://openscad.org/
