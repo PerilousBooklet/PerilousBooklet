@@ -42,7 +42,7 @@
 
 <br />
 
-##### 3D Printing and CAD/CAE/CAM
+##### 3D Printing, CAD/CAE/CAM and PCB Design
 
 [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
 [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
