@@ -39,7 +39,7 @@
 [<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
 [<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
 [<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
-[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs-studio.svg" style="padding-right:10px;" />][obs-studio]
+[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs-studio]
 [<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
 [<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
 [<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
