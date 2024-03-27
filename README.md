@@ -2,7 +2,7 @@
 <!-- http://shields.io -->
 
 #### Info
-<!-- - 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm) -->
+
 - 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
 - 🌱 I’m currently learning Lua and C
 - 💬 Ask me about Computers, Linux and things about Italy
@@ -13,11 +13,13 @@
 <!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
 
 #### Open source operating systems that I use
+
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 
 <br />
 
 #### Open source apps that I use
+
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
 [<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
 [<img align="left" alt="KeepassXC" width="26px" src="./icons/keepassxc.svg" style="padding-right:10px;" />][keepassxc]
@@ -32,6 +34,7 @@
 
 <br />
 
+Text
 [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
 [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
 [<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
@@ -46,6 +49,7 @@
 
 <br />
 
+Text
 [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
 [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
 [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
@@ -53,6 +57,7 @@
 <br />
 
 #### Open source games that are actually good
+
 [<img align="left" alt="Mindustry" width="26px" src="./icons/mindustry.svg" style="padding-right:10px;" />][mindustry]
 [<img align="left" alt="Veloren" width="26px" src="./icons/veloren.svg" style="padding-right:10px;" />][veloren]
 [<img align="left" alt="0AD" width="26px" src="./icons/0ad.svg" style="padding-right:10px;" />][0ad]
