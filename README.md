@@ -88,3 +88,17 @@
 [wesnoth]: https://www.wesnoth.org/
 [warzone2100]: https://wz2100.net/
 
+[gimp]: https://www.gimp.org/
+[inkscape]: https://inkscape.org/
+[krita]: https://krita.org/en/
+[blender]: https://www.blender.org/
+[material-maker]: https://www.materialmaker.org/
+[olive]: https://www.olivevideoeditor.org/
+[natron]: https://natrongithub.github.io/
+[obs-studio]: https://obsproject.com/
+[tenacity]: https://tenacityaudio.org/
+[ardour]: https://ardour.org/
+[lmms]: https://lmms.io/
+[openscad]: https://openscad.org/
+[freecad]: https://openscad.org/
+[kicad]: https://openscad.org/
