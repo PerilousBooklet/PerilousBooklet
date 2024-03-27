@@ -5,8 +5,6 @@
 <!-- - 🔭 I’m currently working on [Lite XL Project Template Manager](https://github.com/PerilousBooklet/lite-xl-ptm) -->
 - 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
 - 🌱 I’m currently learning Lua and C
-<!-- - 👯 I’m looking to collaborate on ? -->
-<!-- - 🤔 I’m looking for help with documenting Lite XL -->
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 - 😄 Pronouns: he/him
