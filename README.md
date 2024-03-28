@@ -28,25 +28,25 @@
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 
-[<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
-[<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
-[<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita]
-[<img align="left" alt="Blender" width="26px" src="./icons/blender.svg" style="padding-right:10px;" />][blender]
-[<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker]
-[<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot]
-[<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive]
-[<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron]
-[<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs]
-[<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity]
-[<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
-[<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
+<!-- [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp] -->
+<!-- [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape] -->
+<!-- [<img align="left" alt="Krita" width="26px" src="./icons/krita.svg" style="padding-right:10px;" />][krita] -->
+<!-- [<img align="left" alt="Blender" width="26px" src="./icons/blender.svg" style="padding-right:10px;" />][blender] -->
+<!-- [<img align="left" alt="Material Maker" width="26px" src="./icons/material-maker.svg" style="padding-right:10px;" />][material-maker] -->
+<!-- [<img align="left" alt="Godot" width="26px" src="./icons/godot.svg" style="padding-right:10px;" />][godot] -->
+<!-- [<img align="left" alt="Olive" width="26px" src="./icons/olive.svg" style="padding-right:10px;" />][olive] -->
+<!-- [<img align="left" alt="Natron" width="26px" src="./icons/natron.svg" style="padding-right:10px;" />][natron] -->
+<!-- [<img align="left" alt="OBS Studio" width="26px" src="./icons/obs.svg" style="padding-right:10px;" />][obs] -->
+<!-- [<img align="left" alt="Tenacity" width="26px" src="./icons/tenacity.svg" style="padding-right:10px;" />][tenacity] -->
+<!-- [<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour] -->
+<!-- [<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms] -->
 
-[<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
-[<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
-[<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
+<!-- [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad] -->
+<!-- [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad] -->
+<!-- [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad] -->
 
-[<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
-[<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
+<!-- [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris] -->
+<!-- [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher] -->
 
 <br />
 
