@@ -4,6 +4,13 @@
 <!-- #### Open source hardware that I use -->
 <!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
 
+#### Info
+
+- 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
+- 🌱 I’m currently learning Lua and C
+- 💬 Ask me about Computers, Linux and things about Italy
+- 📫 How to reach me: @perilousbooklet:matrix.org
+
 #### Open source operating systems that I use
 
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
@@ -11,8 +18,6 @@
 <br />
 
 #### Open source apps that I use
-
-##### Productivity
 
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
 [<img align="left" alt="Thunderbird" width="26px" src="./icons/thunderbird.svg" style="padding-right:10px;" />][thunderbird]
@@ -22,10 +27,6 @@
 [<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
-
-<br />
-
-##### Art and Content Creation
 
 [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp]
 [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape]
@@ -40,22 +41,12 @@
 [<img align="left" alt="Ardour" width="26px" src="./icons/ardour.svg" style="padding-right:10px;" />][ardour]
 [<img align="left" alt="LMMS" width="26px" src="./icons/lmms.svg" style="padding-right:10px;" />][lmms]
 
-<br />
-
-##### 3D Printing, CAD/CAE/CAM and PCB Design
-
 [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad]
 [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad]
 [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad]
 
-<br />
-
-##### Gaming
-
 [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
-
-<br />
 
 #### Open source games that are actually good
 
