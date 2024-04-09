@@ -27,6 +27,8 @@
 [<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
+[<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
+[<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 
 <!-- [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp] -->
 <!-- [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape] -->
@@ -45,8 +47,6 @@
 <!-- [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad] -->
 <!-- [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad] -->
 
-<!-- [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris] -->
-<!-- [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher] -->
 
 <br />
 
