@@ -29,6 +29,7 @@
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
 [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
+[<img align="left" alt="Prismlauncher" width="26px" src="./icons/prismlauncher.svg" style="padding-right:10px;" />][prismlauncher]
 
 <!-- [<img align="left" alt="GIMP" width="26px" src="./icons/gimp.svg" style="padding-right:10px;" />][gimp] -->
 <!-- [<img align="left" alt="Inkscape" width="26px" src="./icons/inkscape.svg" style="padding-right:10px;" />][inkscape] -->
@@ -79,6 +80,7 @@
 [lite-xl]: https://lite-xl.com/
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
+[prismlauncher]: https://prismlauncher.org/
 
 [gimp]: https://www.gimp.org/
 [inkscape]: https://inkscape.org/
