@@ -11,16 +11,16 @@
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 
+#### Articles about Proprietary Software
+
+- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
+<!-- - []() -->
+
 #### Open source operating systems that I use
 
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
 
 <br />
-
-#### Articles about Proprietary Software
-
-- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
-<!-- - []() -->
 
 #### Open source apps that I use
 
