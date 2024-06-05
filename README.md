@@ -22,8 +22,6 @@
 - [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
 <!-- - []() -->
 
-<br />
-
 #### Open source apps that I use
 
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
