@@ -63,6 +63,13 @@
 [<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
 <!-- [<img align="left" alt="OpenTTD" width="26px" src="./icons/openttd.svg" style="padding-right:10px;" />][openttd] -->
 
+<br />
+
+#### Articles about Proprietary Software
+
+- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
+<!-- - []() -->
+
 <!-- Bibliography -->
 
 <!-- Operating systems -->
