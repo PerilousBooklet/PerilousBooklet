@@ -17,6 +17,13 @@
 
 <br />
 
+#### Articles about Proprietary Software
+
+- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
+<!-- - []() -->
+
+<br />
+
 #### Open source apps that I use
 
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
@@ -62,13 +69,6 @@
 [<img align="left" alt="Warzone2100" width="26px" src="./icons/warzone2100.svg" style="padding-right:10px;" />][warzone2100]
 [<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
 <!-- [<img align="left" alt="OpenTTD" width="26px" src="./icons/openttd.svg" style="padding-right:10px;" />][openttd] -->
-
-<br />
-
-#### Articles about Proprietary Software
-
-- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
-<!-- - []() -->
 
 <!-- Bibliography -->
 
