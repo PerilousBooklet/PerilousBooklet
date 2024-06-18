@@ -66,7 +66,8 @@
 [<img align="left" alt="Battle for Wesnoth" width="26px" src="./icons/wesnoth.svg" style="padding-right:10px;" />][wesnoth]
 [<img align="left" alt="Warzone2100" width="26px" src="./icons/warzone2100.svg" style="padding-right:10px;" />][warzone2100]
 [<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
-[<img align="left" alt="OpenTTD" width="26px" src="./icons/openttd.svg" style="padding-right:10px;" />][openttd]
+[<img align="left" alt="Shattered Pixel Dungeon" width="26px" src="./icons/shattered-pixel-dungeon.svg" style="padding-right:10px;" />][shattered-pixel-dungeon]
+[<img align="left" alt="Rigs of Rods" width="26px" src="./icons/rigsofrods.svg" style="padding-right:10px;" />][rigsofrods]
 
 <!-- Bibliography -->
 
@@ -112,4 +113,5 @@
 [wesnoth]: https://www.wesnoth.org/
 [warzone2100]: https://wz2100.net/
 [flightgear]: https://www.flightgear.org/
-[openttd]: https://www.openttd.org/
+[rigsofrods]: https://rigsofrods.org/
+[shattered-pixel-dungeon]: https://shatteredpixel.com/shatteredpd/
