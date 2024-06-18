@@ -211,10 +211,10 @@
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
        d="M 5.0000006,5.567627e-7 H 28.866665 a 5,5 45 0 1 5,5.0000000432373 V 28.866665 a 5,5 135 0 1 -5,5 H 5.0000006 a 5,5 45 0 1 -5.0000000432373,-5 V 5.0000006 A 5,5 135 0 1 5.0000006,5.567627e-7 Z"
-       transform="matrix(0.32951433,0,0,0.32951433,0.77022412,0.77022412)" />
+       transform="matrix(0.27817217,0,0,0.27817217,1.639618,1.639618)" />
     <g
        id="g5083"
-       transform="matrix(1.5369413,0,0,1.5369413,15.623227,-180.20532)">
+       transform="matrix(1.297468,0,0,1.297468,14.178351,-151.13784)">
       <path
          sodipodi:nodetypes="ccccccc"
          style="display:inline;fill:#ffa726;fill-opacity:1;stroke-width:3.75985;filter:url(#filter1253-5)"
