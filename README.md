@@ -1,9 +1,6 @@
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-<!-- #### Open source hardware that I use -->
-<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
-
 #### Info
 
 - 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
@@ -55,8 +52,12 @@
 <!-- [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad] -->
 <!-- [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad] -->
 
-
 <br />
+
+<!-- #### Open source hardware that I use -->
+<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
+
+<!-- <br /> -->
 
 #### Open source games that are actually good
 
