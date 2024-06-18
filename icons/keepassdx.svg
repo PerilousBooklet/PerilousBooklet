@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="5.380752"
-     inkscape:cx="51.479793"
+     inkscape:cx="51.572717"
      inkscape:cy="62.723575"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
@@ -211,10 +211,10 @@
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
        d="M 5.0000006,5.567627e-7 H 28.866665 a 5,5 45 0 1 5,5.0000000432373 V 28.866665 a 5,5 135 0 1 -5,5 H 5.0000006 a 5,5 45 0 1 -5.0000000432373,-5 V 5.0000006 A 5,5 135 0 1 5.0000006,5.567627e-7 Z"
-       transform="scale(0.37500001)" />
+       transform="matrix(0.32951433,0,0,0.32951433,0.77022412,0.77022412)" />
     <g
        id="g5083"
-       transform="matrix(1.7490985,0,0,1.7490985,16.90329,-205.95714)">
+       transform="matrix(1.5369413,0,0,1.5369413,15.623227,-180.20532)">
       <path
          sodipodi:nodetypes="ccccccc"
          style="display:inline;fill:#ffa726;fill-opacity:1;stroke-width:3.75985;filter:url(#filter1253-5)"
