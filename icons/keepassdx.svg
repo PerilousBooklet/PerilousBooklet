@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="128"
-   height="128"
-   viewBox="0 0 33.866666 33.866666"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
@@ -31,7 +31,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -55,8 +56,8 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter1253"
-       x="-0.070925703"
-       y="-0.070922933"
+       x="-0.070925705"
+       y="-0.070922934"
        width="1.1418514"
        height="1.1713971">
       <feFlood
@@ -91,8 +92,8 @@
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter1265"
-       x="-0.067191603"
-       y="-0.06719197"
+       x="-0.067191601"
+       y="-0.067191973"
        width="1.1343832"
        height="1.1623806">
       <feFlood
@@ -209,10 +210,11 @@
        y="5.567627e-07"
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
-       d="M 5.0000006,5.567627e-7 H 28.866665 a 5,5 45 0 1 5,5.0000000432373 V 28.866665 a 5,5 135 0 1 -5,5 H 5.0000006 a 5,5 45 0 1 -5.0000000432373,-5 V 5.0000006 A 5,5 135 0 1 5.0000006,5.567627e-7 Z" />
+       d="M 5.0000006,5.567627e-7 H 28.866665 a 5,5 45 0 1 5,5.0000000432373 V 28.866665 a 5,5 135 0 1 -5,5 H 5.0000006 a 5,5 45 0 1 -5.0000000432373,-5 V 5.0000006 A 5,5 135 0 1 5.0000006,5.567627e-7 Z"
+       transform="scale(0.37500001)" />
     <g
        id="g5083"
-       transform="matrix(4.6642626,0,0,4.6642626,45.075437,-549.21903)">
+       transform="matrix(1.7490985,0,0,1.7490985,16.90329,-205.95714)">
       <path
          sodipodi:nodetypes="ccccccc"
          style="display:inline;fill:#ffa726;fill-opacity:1;stroke-width:3.75985;filter:url(#filter1253-5)"
