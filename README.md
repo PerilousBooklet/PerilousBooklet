@@ -15,6 +15,8 @@
 
 [<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
 
+<br />
+
 #### Open source operating systems that I use
 
 [<img align="left" alt="Arch Linux" width="26px" src="./icons/arch.svg" style="padding-right:10px;" />][arch]
