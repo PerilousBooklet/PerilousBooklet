@@ -11,10 +11,9 @@
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 
-#### Articles about Proprietary Software
+#### Important Projects
 
-- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
-<!-- - []() -->
+[<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
 
 #### Open source operating systems that I use
 
@@ -115,3 +114,5 @@
 [flightgear]: https://www.flightgear.org/
 [rigsofrods]: https://rigsofrods.org/
 [shattered-pixel-dungeon]: https://shatteredpixel.com/shatteredpd/
+
+[awesome]: https://github.com/sindresorhus/awesome
