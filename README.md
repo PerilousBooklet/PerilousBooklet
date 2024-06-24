@@ -20,6 +20,14 @@
 
 <br />
 
+#### Hardware that I use
+[<img align="left" alt="Clevo Laptop from LaptopWithLinux" width="26px" src="./icons/clevo.svg" style="padding-right:10px;" />][clevo]
+<!-- [<img align="left" alt="Fairphone" width="26px" src="./icons/fairphone.svg" style="padding-right:10px;" />][fairphone] -->
+<!-- [<img align="left" alt="Framework Laptop" width="26px" src="./icons/framework.svg" style="padding-right:10px;" />][framework] -->
+<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mntre.svg" style="padding-right:10px;" />][mntre] -->
+
+<br />
+
 #### Open source apps that I use
 
 [<img align="left" alt="Firefox" width="26px" src="./icons/firefox.svg" style="padding-right:10px;" />][firefox]
@@ -52,14 +60,6 @@
 <!-- [<img align="left" alt="OpenSCAD" width="26px" src="./icons/openscad.svg" style="padding-right:10px;" />][openscad] -->
 <!-- [<img align="left" alt="FreeCAD" width="26px" src="./icons/freecad.svg" style="padding-right:10px;" />][freecad] -->
 <!-- [<img align="left" alt="KiCAD" width="26px" src="./icons/kicad.svg" style="padding-right:10px;" />][kicad] -->
-
-<br />
-
-#### Hardware that I use
-[<img align="left" alt="Clevo Laptop from LaptopWithLinux" width="26px" src="./icons/clevo.svg" style="padding-right:10px;" />][clevo]
-<!-- [<img align="left" alt="Fairphone" width="26px" src="./icons/fairphone.svg" style="padding-right:10px;" />][fairphone] -->
-<!-- [<img align="left" alt="Framework Laptop" width="26px" src="./icons/framework.svg" style="padding-right:10px;" />][framework] -->
-<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mntre.svg" style="padding-right:10px;" />][mntre] -->
 
 <br />
 
