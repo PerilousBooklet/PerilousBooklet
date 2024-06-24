@@ -120,7 +120,7 @@
 [kicad]: https://openscad.org/
 
 <!-- Hardware -->
-[clevo]: https://laptopwithlinux.com/
+[clevo]: https://laptopwithlinux.com/product/clevo-nl51mu-metal-design/
 [fairphone]: https://www.fairphone.com/nl
 [framework]: https://frame.work/it/en
 [mntre]: https://mntre.com/
