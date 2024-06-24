@@ -31,6 +31,7 @@
 [<img align="left" alt="FreeTube" width="26px" src="./icons/freetube-bin.svg" style="padding-right:10px;" />][freetube]
 [<img align="left" alt="Xournal++" width="26px" src="./icons/xournalpp.svg" style="padding-right:10px;" />][xournalpp]
 [<img align="left" alt="Lite XL" width="26px" src="./icons/lite-xl.svg" style="padding-right:10px;" />][lite-xl]
+[<img align="left" alt="Syncthing" width="26px" src="./icons/syncthing.svg" style="padding-right:10px;" />][syncthing]
 [<img align="left" alt="Lutris" width="26px" src="./icons/lutris.svg" style="padding-right:10px;" />][lutris]
 [<img align="left" alt="Heroic Games Launcher" width="26px" src="./icons/heroic-games-launcher.svg" style="padding-right:10px;" />][heroic-games-launcher]
 [<img align="left" alt="Prismlauncher" width="26px" src="./icons/prismlauncher.svg" style="padding-right:10px;" />][prismlauncher]
@@ -71,6 +72,8 @@
 [<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
 [<img align="left" alt="Shattered Pixel Dungeon" width="26px" src="./icons/shattered-pixel-dungeon.svg" style="padding-right:10px;" />][shattered-pixel-dungeon]
 [<img align="left" alt="Rigs of Rods" width="26px" src="./icons/rigsofrods.svg" style="padding-right:10px;" />][rigsofrods]
+[<img align="left" alt="Pioneer" width="26px" src="./icons/pioneer.svg" style="padding-right:10px;" />][pioneer]
+<!-- [<img align="left" alt="OpenSpades" width="26px" src="./icons/openspades.svg" style="padding-right:10px;" />][openspades] -->
 
 <!-- Bibliography -->
 
@@ -88,6 +91,7 @@
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
+[syncthing]: https://syncthing.net/
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
 [prismlauncher]: https://prismlauncher.org/
@@ -119,5 +123,7 @@
 [flightgear]: https://www.flightgear.org/
 [rigsofrods]: https://rigsofrods.org/
 [shattered-pixel-dungeon]: https://shatteredpixel.com/shatteredpd/
+[pioneer]: https://pioneerspacesim.net/#slide0
+[openspades]: https://openspades.yvt.jp/
 
 [awesome]: https://github.com/sindresorhus/awesome
