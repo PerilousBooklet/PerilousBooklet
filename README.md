@@ -55,10 +55,13 @@
 
 <br />
 
-<!-- #### Open source hardware that I use -->
-<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mnt-reform-next.svg" style="padding-right:10px;" />][mnt-reform-next] -->
+#### Hardware that I use
+[<img align="left" alt="Clevo Laptop from LaptopWithLinux" width="26px" src="./icons/clevo.svg" style="padding-right:10px;" />][clevo]
+<!-- [<img align="left" alt="Fairphone" width="26px" src="./icons/fairphone.svg" style="padding-right:10px;" />][fairphone] -->
+<!-- [<img align="left" alt="Framework Laptop" width="26px" src="./icons/framework.svg" style="padding-right:10px;" />][framework] -->
+<!-- [<img align="left" alt="MNT Reform Next" width="26px" src="./icons/mntre.svg" style="padding-right:10px;" />][mntre] -->
 
-<!-- <br /> -->
+<br />
 
 #### Open source games that are actually good
 
@@ -80,6 +83,9 @@
 <!-- Operating systems -->
 [arch]: https://archlinux.org/
 [linux-mint]: https://www.linuxmint.com/
+
+<!-- Important Projects -->
+[awesome]: https://github.com/sindresorhus/awesome
 
 <!-- Apps -->
 [firefox]: https://www.mozilla.org/en-US/firefox/new/
@@ -113,6 +119,13 @@
 [freecad]: https://openscad.org/
 [kicad]: https://openscad.org/
 
+<!-- Hardware -->
+[clevo]: https://laptopwithlinux.com/
+[fairphone]: https://www.fairphone.com/nl
+[framework]: https://frame.work/it/en
+[mntre]: https://mntre.com/
+
+<!-- Open Source Games -->
 [mindustry]: https://mindustrygame.github.io/
 [veloren]: https://veloren.net/
 [0ad]: https://play0ad.com/
@@ -126,4 +139,3 @@
 [pioneer]: https://pioneerspacesim.net/#slide0
 [openspades]: https://openspades.yvt.jp/
 
-[awesome]: https://github.com/sindresorhus/awesome
