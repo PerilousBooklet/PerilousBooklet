@@ -11,6 +11,7 @@
 #### Important Projects
 
 [<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
+[<img align="left" alt="Build your Own X" width="26px" src="./icons/build-your-own-x.svg" style="padding-right:10px;" />][build-you-own-x]
 
 <br />
 
@@ -86,6 +87,7 @@
 
 <!-- Important Projects -->
 [awesome]: https://github.com/sindresorhus/awesome
+[build-your-own-x]: https://github.com/codecrafters-io/build-your-own-x
 
 <!-- Apps -->
 [firefox]: https://www.mozilla.org/en-US/firefox/new/
