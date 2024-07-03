@@ -77,6 +77,7 @@
 [<img align="left" alt="Shattered Pixel Dungeon" width="26px" src="./icons/shattered-pixel-dungeon.svg" style="padding-right:10px;" />][shattered-pixel-dungeon]
 [<img align="left" alt="Rigs of Rods" width="26px" src="./icons/rigsofrods.svg" style="padding-right:10px;" />][rigsofrods]
 [<img align="left" alt="Pioneer" width="26px" src="./icons/pioneer.svg" style="padding-right:10px;" />][pioneer]
+[<img align="left" alt="Stunt Rally" width="26px" src="./icons/stuntrally.svg" style="padding-right:10px;" />][stuntrally]
 <!-- [<img align="left" alt="OpenSpades" width="26px" src="./icons/openspades.svg" style="padding-right:10px;" />][openspades] -->
 
 <!-- Bibliography -->
@@ -140,4 +141,5 @@
 [shattered-pixel-dungeon]: https://shatteredpixel.com/shatteredpd/
 [pioneer]: https://pioneerspacesim.net/#slide0
 [openspades]: https://openspades.yvt.jp/
+[stuntrally]: https://stuntrally.tuxfamily.org/
 
