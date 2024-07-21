@@ -8,8 +8,6 @@
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 
-<br />
-
 <!-- #### My Development Skills -->
 
 <!-- [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
