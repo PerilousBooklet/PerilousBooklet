@@ -8,6 +8,23 @@
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 
+<br \>
+
+#### Development Skills
+
+[<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java]
+[<img align="left" alt="" width="26px" src="./icons/python.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="" width="26px" src="./icons/hmtl.svg" style="padding-right:10px;" />][html]
+[<img align="left" alt="" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css]
+[<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js]
+[<img align="left" alt="" width="26px" src="./icons/php.svg" style="padding-right:10px;" />][php]
+[<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql]
+[<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash]
+[<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua]
+[<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex]
+
+<br \>
+
 #### Important Projects
 
 [<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
@@ -85,6 +102,18 @@
 <!-- Operating systems -->
 [arch]: https://archlinux.org/
 [linux-mint]: https://www.linuxmint.com/
+
+<!-- Development Skills -->
+[java]: https://www.w3schools.com/java/default.asp
+[python]: https://www.w3schools.com/python/default.asp
+[html]: https://www.w3schools.com/html/default.asp
+[css]: https://www.w3schools.com/css/default.asp
+[js]: https://www.w3schools.com/js/default.asp
+[php]: https://www.w3schools.com/php/default.asp
+[sql]: https://www.w3schools.com/sql/default.asp
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[lua]: https://www.lua.org/
+[latex]: https://www.latex-project.org/
 
 <!-- Important Projects -->
 [awesome]: https://github.com/sindresorhus/awesome
