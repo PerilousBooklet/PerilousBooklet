@@ -21,6 +21,8 @@
 [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua]
 [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex]
 
+<br />
+
 #### Important Projects
 
 [<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
