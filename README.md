@@ -8,20 +8,22 @@
 - 💬 Ask me about Computers, Linux and things about Italy
 - 📫 How to reach me: @perilousbooklet:matrix.org
 
-#### Development Skills
-
-[<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java]
-[<img align="left" alt="" width="26px" src="./icons/python.svg" style="padding-right:10px;" />][python]
-[<img align="left" alt="" width="26px" src="./icons/hmtl.svg" style="padding-right:10px;" />][html]
-[<img align="left" alt="" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css]
-[<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js]
-[<img align="left" alt="" width="26px" src="./icons/php.svg" style="padding-right:10px;" />][php]
-[<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql]
-[<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash]
-[<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua]
-[<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex]
-
 <br />
+
+<!-- #### My Development Skills -->
+
+<!-- [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/python.svg" style="padding-right:10px;" />][python] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/hmtl.svg" style="padding-right:10px;" />][html] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/php.svg" style="padding-right:10px;" />][php] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex] -->
+
+<!-- <br /> -->
 
 #### Important Projects
 
