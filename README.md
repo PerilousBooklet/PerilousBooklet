@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
 - 🌱 I’m currently learning Lua
 - 💬 Ask me about Computers, Linux and things about Italy
-- 📫 How to reach me: @perilousbooklet:matrix.org
+- 📫 How to reach me: `PerilousBooklet#6779` on Discord
 
 <!-- #### My Development Skills -->
 
