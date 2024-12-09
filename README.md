@@ -79,17 +79,17 @@
 
 #### Open source games that are actually good
 
+[<img align="left" alt="0AD" width="26px" src="./icons/0ad.svg" style="padding-right:10px;" />][0ad]
+[<img align="left" alt="Battle for Wesnoth" width="26px" src="./icons/wesnoth.svg" style="padding-right:10px;" />][wesnoth]
+[<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
 [<img align="left" alt="Mindustry" width="26px" src="./icons/mindustry.svg" style="padding-right:10px;" />][mindustry]
 <!-- [<img align="left" alt="Veloren" width="26px" src="./icons/veloren.svg" style="padding-right:10px;" />][veloren] -->
-<!-- [<img align="left" alt="0AD" width="26px" src="./icons/0ad.svg" style="padding-right:10px;" />][0ad] -->
 <!-- [<img align="left" alt="Xonotic" width="26px" src="./icons/xonotic.svg" style="padding-right:10px;" />][xonotic] -->
-[<img align="left" alt="Warzone2100" width="26px" src="./icons/warzone2100.svg" style="padding-right:10px;" />][warzone2100]
-[<img align="left" alt="Shattered Pixel Dungeon" width="26px" src="./icons/shattered-pixel-dungeon.svg" style="padding-right:10px;" />][shattered-pixel-dungeon]
 [<img align="left" alt="Pioneer" width="26px" src="./icons/pioneer.svg" style="padding-right:10px;" />][pioneer]
-[<img align="left" alt="Battle for Wesnoth" width="26px" src="./icons/wesnoth.svg" style="padding-right:10px;" />][wesnoth]
+[<img align="left" alt="Shattered Pixel Dungeon" width="26px" src="./icons/shattered-pixel-dungeon.svg" style="padding-right:10px;" />][shattered-pixel-dungeon]
+[<img align="left" alt="Warzone2100" width="26px" src="./icons/warzone2100.svg" style="padding-right:10px;" />][warzone2100]
 <!-- [<img align="left" alt="SuperTuxKart" width="26px" src="./icons/supertuxkart.svg" style="padding-right:10px;" />][supertuxkart] -->
 <!-- [<img align="left" alt="Stunt Rally" width="26px" src="./icons/stuntrally.svg" style="padding-right:10px;" />][stuntrally] -->
-[<img align="left" alt="Flightgear" width="26px" src="./icons/flightgear.svg" style="padding-right:10px;" />][flightgear]
 <!-- [<img align="left" alt="Rigs of Rods" width="26px" src="./icons/rigsofrods.svg" style="padding-right:10px;" />][rigsofrods] -->
 <!-- [<img align="left" alt="OpenSpades" width="26px" src="./icons/openspades.svg" style="padding-right:10px;" />][openspades] -->
 
