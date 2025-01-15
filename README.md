@@ -3,21 +3,25 @@
 
 #### Info
 
-- I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide)
-- I’m currently learning Lua
+- I’m currently working on [Lite XL IDE](lite-xl-ide).
+- I’m currently learning [Java](java) and [Lua](lua).
 
 <!-- #### My Development Skills -->
 
 <!-- [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
+
+<!-- [<img align="left" alt="" width="26px" src="./icons/git.svg" style="padding-right:10px;" />][git] -->
+<!-- [<img align="left" alt="" width="26px" src="./icons/docker.svg" style="padding-right:10px;" />][docker] -->
+
 <!-- [<img align="left" alt="" width="26px" src="./icons/python.svg" style="padding-right:10px;" />][python] -->
 <!-- [<img align="left" alt="" width="26px" src="./icons/hmtl.svg" style="padding-right:10px;" />][html] -->
 <!-- [<img align="left" alt="" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css] -->
 <!-- [<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js] -->
 <!-- [<img align="left" alt="" width="26px" src="./icons/php.svg" style="padding-right:10px;" />][php] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex] -->
 
 <!-- <br /> -->
 
@@ -99,16 +103,22 @@
 [linux-mint]: https://www.linuxmint.com/
 
 <!-- Development Skills -->
-[java]: https://www.w3schools.com/java/default.asp
-[python]: https://www.w3schools.com/python/default.asp
+[java]: https://dev.java/learn/
+[sql]: https://www.w3schools.com/sql/default.asp
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[lua]: https://www.lua.org/
+
+[latex]: https://www.latex-project.org/help/documentation/
+[plantuml]: https://plantuml.com/
+[git]: https://git-scm.com/book/en/v2
+[docker]: 
+[linux]: https://wiki.archlinux.org/title/Arch_Linux
+
 [html]: https://www.w3schools.com/html/default.asp
 [css]: https://www.w3schools.com/css/default.asp
 [js]: https://www.w3schools.com/js/default.asp
 [php]: https://www.w3schools.com/php/default.asp
-[sql]: https://www.w3schools.com/sql/default.asp
-[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[lua]: https://www.lua.org/
-[latex]: https://www.latex-project.org/
+[python]: https://www.w3schools.com/python/default.asp
 
 <!-- Important Projects -->
 [awesome]: https://github.com/sindresorhus/awesome
@@ -124,6 +134,7 @@
 [freetube]: https://freetubeapp.io/
 [xournalpp]: https://xournalpp.github.io/
 [lite-xl]: https://lite-xl.com/
+[lite-xl-ide]: https://github.com/PerilousBooklet/lite-xl-ide
 [syncthing]: https://syncthing.net/
 [lutris]: https://lutris.net/
 [heroic-games-launcher]: https://heroicgameslauncher.com/
