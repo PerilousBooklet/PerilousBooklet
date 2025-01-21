@@ -112,7 +112,7 @@
 [latex]: https://www.latex-project.org/help/documentation/
 [plantuml]: https://plantuml.com/
 [git]: https://git-scm.com/book/en/v2
-[docker]: 
+<!-- [docker]:  -->
 [linux]: https://wiki.archlinux.org/title/Arch_Linux
 
 [html]: https://www.w3schools.com/html/default.asp
