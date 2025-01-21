@@ -107,6 +107,7 @@
 [sql]: https://www.w3schools.com/sql/default.asp
 [bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 [lua]: https://www.lua.org/
+[c]: https://learn-c.org/
 
 [latex]: https://www.latex-project.org/help/documentation/
 [plantuml]: https://plantuml.com/
