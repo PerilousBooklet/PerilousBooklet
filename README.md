@@ -6,8 +6,6 @@
 - I’m currently learning [Java](https://dev.java/learn/) and [Lua](https://www.lua.org/).
 - I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide).
 
-<br />
- 
 #### My Development Skills
 
 [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java]
