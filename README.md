@@ -25,7 +25,7 @@
 [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex]
 [<img align="left" alt="" width="26px" src="./icons/plantuml.svg" style="padding-right:10px;" />][plantuml]
 
-<!-- <br /> -->
+<br />
 
 #### Important Projects
 
