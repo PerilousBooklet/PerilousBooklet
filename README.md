@@ -8,7 +8,7 @@
 
 #### My Development Skills
 
-[<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java]
+[<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" target="_blank" />][java]
 [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql]
 [<img align="left" alt="" width="26px" src="./icons/xml.svg" style="padding-right:10px;" />][xml]
 [<img align="left" alt="" width="26px" src="./icons/html.svg" style="padding-right:10px;" />][html]
