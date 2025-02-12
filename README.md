@@ -16,12 +16,12 @@
 [<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js]
 [<img align="left" alt="" width="26px" src="./icons/json.svg" style="padding-right:10px;" />][json]
 [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua]
-
+<br />
 [<img align="left" alt="" width="26px" src="./icons/maven.svg" style="padding-right:10px;" />][maven]
 [<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash]
 [<img align="left" alt="" width="26px" src="./icons/git.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="" width="26px" src="./icons/docker.svg" style="padding-right:10px;" />][docker]
-
+<br />
 [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex]
 [<img align="left" alt="" width="26px" src="./icons/plantuml.svg" style="padding-right:10px;" />][plantuml]
 
