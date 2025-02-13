@@ -31,7 +31,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![PlantUML](https://img.shields.io/badge/Lite%20XL-%232E2E32?style=flat-square)
+![PlantUML](https://img.shields.io/badge/Lite XL-%232E2E32?style=flat-square)
 
 ### IDEs / Text Editors
 
