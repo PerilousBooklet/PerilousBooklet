@@ -40,12 +40,6 @@
 
 <!-- <br /> -->
 
-## Important Projects
-
-[<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
-[<img align="left" alt="Build your Own X" width="26px" src="./icons/build-your-own-x.svg" style="padding-right:10px;" />][build-your-own-x]
-
-<br />
 
 <!-- #### Open source operating systems that I use -->
 
