@@ -1,12 +1,12 @@
 <!-- SHIELDS -->
 <!-- http://shields.io -->
 
-#### Info
+## Info
 
 - I’m currently learning [Java](https://dev.java/learn/) and [Lua](https://www.lua.org/).
 - I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide).
 
-#### Development Skills
+## Development Skills
 
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
 <!-- ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) -->
@@ -26,7 +26,7 @@
 
 <!-- <br /> -->
 
-#### Important Projects
+## Important Projects
 
 [<img align="left" alt="Awesome" width="26px" src="./icons/awesome.svg" style="padding-right:10px;" />][awesome]
 [<img align="left" alt="Build your Own X" width="26px" src="./icons/build-your-own-x.svg" style="padding-right:10px;" />][build-your-own-x]
