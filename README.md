@@ -18,7 +18,7 @@
 
 ### Frameworks
 
-![Maven](https://img.shields.io/badge/Maven-%23BB214A?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-%23BB214A?style=flat-square&logoSize=auto)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
@@ -31,14 +31,14 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-%232E2E32?style=flat-square)
+![PlantUML](https://img.shields.io/badge/PlantUML-%23931338?style=flat-square&logoSize=auto)
 
 ### IDEs / Text Editors
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Lite XL IDE](https://img.shields.io/badge/Lite%20XL-%23931338?style=flat-square)
+![Lite XL IDE](https://img.shields.io/badge/Lite%20XL-%232E2E32?style=flat-square&logoSize=auto)
 
 <!-- <br /> -->
 
