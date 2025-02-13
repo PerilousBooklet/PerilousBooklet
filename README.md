@@ -6,7 +6,7 @@
 - I’m currently learning [Java](https://dev.java/learn/) and [Lua](https://www.lua.org/).
 - I’m currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide).
 
-#### My Development Skills
+#### Development Skills
 
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
 <!-- ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) -->
@@ -23,25 +23,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <!-- TODO: maven, plantuml -->
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,lua,linux,git,docker,latex)](https://skillicons.dev) -->
-
-<!-- [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/xml.svg" style="padding-right:10px;" />][xml] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/html.svg" style="padding-right:10px;" />][html] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/css.svg" style="padding-right:10px;" />][css] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/js.svg" style="padding-right:10px;" />][js] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/json.svg" style="padding-right:10px;" />][json] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/lua.svg" style="padding-right:10px;" />][lua] -->
-
-<!-- [<img align="left" alt="" width="26px" src="./icons/maven.svg" style="padding-right:10px;" />][maven] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/bash.svg" style="padding-right:10px;" />][bash] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/git.svg" style="padding-right:10px;" />][git] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/docker.svg" style="padding-right:10px;" />][docker] -->
-
-<!-- [<img align="left" alt="" width="26px" src="./icons/latex.svg" style="padding-right:10px;" />][latex] -->
-<!-- [<img align="left" alt="" width="26px" src="./icons/plantuml.svg" style="padding-right:10px;" />][plantuml] -->
 
 <!-- <br /> -->
 
