@@ -8,7 +8,7 @@
 
 #### My Development Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,sql,html,css,js,lua,maven,linux,git,docker,latex,plantuml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,lua,linux,git,docker,latex)](https://skillicons.dev)
 
 <!-- [<img align="left" alt="" width="26px" src="./icons/java.svg" style="padding-right:10px;" />][java] -->
 <!-- [<img align="left" alt="" width="26px" src="./icons/sql.svg" style="padding-right:10px;" />][sql] -->
