@@ -5,7 +5,8 @@
 
 ## Dev Skills
 
-WIP: fixing unsupported CSS
+> [!NOTE]
+> WIP: fixing unsupported CSS
 
 <!-- TODO: add white icons -->
 
