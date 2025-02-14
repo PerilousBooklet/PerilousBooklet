@@ -5,6 +5,8 @@
 
 ## Dev Skills
 
+WIP: fixing unsupported CSS
+
 <!-- TODO: add white icons -->
 
 ### Languages
