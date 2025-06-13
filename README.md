@@ -31,6 +31,6 @@ My passion lies in ?
 
 ## Where to Find Me
 
-- [EMAIL](raffaele.orabona@protonmail.com)
+- [EMAIL](mailto:raffaele.orabona@protonmail.com)
 - [Linkedin](https://www.linkedin.com/in/raffaele-orabona-03821b231/)
 - [Lite XL's Discord Server](https://discord.gg/47gNc6YMW3)
