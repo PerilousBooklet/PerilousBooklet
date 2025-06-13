@@ -12,7 +12,7 @@ I have experience in ?, I bring ? My passion lies in ?
 
 **Frameworks**: [Spring](https://spring.io/why-spring)
 
-**Libraries**: AWT/Swing, <!-- [Hibernate](https://hibernate.org/), [JUnit](https://junit.org/junit5/), [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) -->
+**Libraries**: AWT/Swing<!-- , [Hibernate](https://hibernate.org/), [JUnit](https://junit.org/junit5/), [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) -->
 
 <!-- **Protocols**: REST, SOAP -->
 
