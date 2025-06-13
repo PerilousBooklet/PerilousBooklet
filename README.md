@@ -4,9 +4,7 @@ Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in buildin
 
 ## About Me
 
-I have experience in ?, I bring ?
-
-My passion lies in ?
+WIP
 
 ## Technical Skills
 
