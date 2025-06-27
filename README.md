@@ -4,7 +4,9 @@ Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in Java. I
 
 ## About Me
 
-I have experience in ?, I bring ? My passion lies in ?
+<!-- I have experience in ?, I bring ? My passion lies in ? -->
+
+WIP
 
 ## Technical Skills
 
