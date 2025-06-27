@@ -1,10 +1,10 @@
 ## Info
 
-Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in building desktop and web applications in Java.
+Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in Java. I enjoy building desktop and web applications.
 
 ## About Me
 
-WIP
+I have experience in ?, I bring ? My passion lies in ?
 
 ## Technical Skills
 
