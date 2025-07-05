@@ -18,7 +18,7 @@ WIP
 
 <!-- **Protocols**: REST, SOAP -->
 
-**Tools**: [Git](https://git-scm.com/book/en/v2), Github, [Docker](https://www.docker.com/), [Maven](https://maven.apache.org/what-is-maven.html)
+**Tools**: [Maven](https://maven.apache.org/what-is-maven.html), [Git](https://git-scm.com/book/en/v2), Github, [Docker](https://www.docker.com/), SQlite, PostgreSQL
 
 **Platforms**: Windows, Linux
 
