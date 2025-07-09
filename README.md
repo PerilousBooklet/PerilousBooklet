@@ -2,9 +2,11 @@
 
 Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in Java. I enjoy building desktop and web applications.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerilousBooklet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerilousBooklet&layout=compact&hide=jupyter%20notebook,dart&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PerilousBooklet&theme=dark" alt="GitHub Stats" height="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerilousBooklet&layout=compact&hide=jupyter%20notebook,dart&theme=dark" alt="Top Languages" height="150"/>
+</p>
 
 ## About Me
 
