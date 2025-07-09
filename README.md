@@ -18,9 +18,9 @@ WIP
 
 **Languages**: Java, SQL, HTML, CSS, Lua, Bash
 
-**Frameworks**: Spring Boot, Hibernate
+**Frameworks**: Spring Boot, Hibernate, Thymeleaf
 
-**Libraries**: AWT/Swing, Thymeleaf, JUnit
+**Libraries**: AWT/Swing, JUnit
 
 **Tools**: Git, Docker, SQlite, PostgreSQL, Maven
 
