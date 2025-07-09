@@ -10,9 +10,19 @@ Hi, I'm Raffaele Orabona. I'm a junior software developer specialized in Java. I
 
 ## About Me
 
-<!-- I have experience in ?, I bring ? My passion lies in ? -->
+Hi, I'm Raffaele.
 
-WIP
+I'm a junior software developer specializing in Java and Lua.
+
+I enjoy building desktop and web applications and I'm passionate about open source software and hardware.
+
+Outside of coding, I spend my time tinkering, diving into DIY projects, and hosting my own services.
+
+I also enjoy windsurfing, reading, and playing modded Minecraft.
+
+Efficiency is important to me (in both development and life) so I strive to minimize my environmental footprint while creating thoughtful, reliable tech.
+
+I contribute most to the Lite XL project and I'm currently working on Lite XL IDE.
 
 ## Technical Skills
 
