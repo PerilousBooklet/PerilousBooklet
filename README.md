@@ -12,19 +12,15 @@ WIP
 
 ## Technical Skills
 
-**Languages**: [Java](https://dev.java/), SQL, HTML, CSS, Lua
+**Languages**: Java, SQL, HTML, CSS, Lua, Bash
 
-**Frameworks**: [Spring](https://spring.io/why-spring)
+**Frameworks**: Spring Boot, Hibernate
 
-**Libraries**: AWT/Swing<!--, [Hibernate](https://hibernate.org/), [JUnit](https://junit.org/junit5/), [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) -->
+**Libraries**: AWT/Swing, Thymeleaf, JUnit
 
-<!-- **Protocols**: REST, SOAP -->
+**Tools**: Git, Docker, SQlite, PostgreSQL, Maven
 
-**Tools**: [Maven](https://maven.apache.org/what-is-maven.html), [Git](https://git-scm.com/book/en/v2), Github, [Docker](https://www.docker.com/), SQlite, PostgreSQL
-
-**Platforms**: Windows, Linux
-
-**PM**: Agile, Kanban
+**Platforms**: Windows 10/11, Linux
 
 ## My Projects
 
