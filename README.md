@@ -24,9 +24,9 @@ I contribute most to the [Lite XL](https://lite-xl.com) project and I'm currentl
 
 **Languages**: Java, SQL, HTML, CSS, Lua, Bash
 
-**Frameworks**: Spring Boot, Hibernate, Thymeleaf
+**Frameworks**: Spring Boot, Thymeleaf
 
-**Libraries**: AWT/Swing, JUnit
+**Libraries**: AWT/Swing, JUnit, Hibernate
 
 **Tools**: Git, Docker, SQlite, PostgreSQL, Maven
 
