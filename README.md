@@ -16,7 +16,7 @@ Outside of coding, I spend my time tinkering, diving into DIY projects, and host
 
 I also enjoy windsurfing, reading, and playing modded Minecraft.
 
-Efficiency is important to me (in both development and life) so I strive to minimize my environmental footprint while creating thoughtful, reliable tech.
+Efficiency is important to me so I strive to minimize my environmental footprint while creating thoughtful, reliable tech.
 
 I contribute most to the [Lite XL](https://lite-xl.com) project and I'm currently working on [Lite XL IDE](https://github.com/PerilousBooklet/lite-xl-ide).
 
