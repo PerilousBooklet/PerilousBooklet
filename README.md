@@ -22,15 +22,7 @@ I also enjoy windsurfing, reading, and playing modded Minecraft.
 
 ## Technical Skills
 
-**Languages**: Java, SQL, HTML, CSS, Lua, Bash
-
-**Frameworks**: Spring Boot, Thymeleaf
-
-**Libraries**: AWT/Swing, JUnit, Hibernate
-
-**Tools**: Git, Docker, SQlite, PostgreSQL, Maven
-
-**Platforms**: Windows 10/11, Linux
+See [my CV](https://perilousbooklet.github.io/public/pages/cv.html).
 
 ## My Projects
 
