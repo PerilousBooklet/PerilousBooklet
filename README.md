@@ -26,8 +26,8 @@ See [my CV](https://perilousbooklet.github.io/public/pages/cv.html).
 
 ## My Projects
 
-- [Project Manager]()
-- [Politics]()
+- [Project Manager](https://github.com/PerilousBooklet/project-manager)
+- [Politics](https://github.com/PerilousBooklet/politics)
 
 ## Where to Find Me
 
