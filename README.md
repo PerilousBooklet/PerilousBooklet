@@ -24,8 +24,14 @@ See [my CV](https://perilousbooklet.github.io/public/pages/cv.html).
 
 ## My Projects
 
-- [Politics](https://github.com/PerilousBooklet/politics)
-- [Project Manager](https://github.com/PerilousBooklet/project-manager)
+- [lite-xl-devicons](https://github.com/PerilousBooklet/lite-xl-devicons)
+- [lite-xl-ide](https://github.com/PerilousBooklet/lite-xl-ide)
+- [lite-xl-ptm](https://github.com/PerilousBooklet/lite-xl-ptm)
+- [kanban](https://github.com/PerilousBooklet/kanban)
+<!-- - [aur-helper]() -->
+- [archiver](https://github.com/PerilousBooklet/archiver)
+<!-- - [Politics](https://github.com/PerilousBooklet/politics) -->
+<!-- - [Project Manager](https://github.com/PerilousBooklet/project-manager) -->
 
 ## Where to Find Me
 
