@@ -28,7 +28,6 @@ See [my CV](https://perilousbooklet.github.io/public/pages/cv.html).
 - [lite-xl-ide](https://github.com/PerilousBooklet/lite-xl-ide)
 - [lite-xl-ptm](https://github.com/PerilousBooklet/lite-xl-ptm)
 - [kanban](https://github.com/PerilousBooklet/kanban)
-<!-- - [aur-helper]() -->
 - [archiver](https://github.com/PerilousBooklet/archiver)
 <!-- - [Politics](https://github.com/PerilousBooklet/politics) -->
 <!-- - [Project Manager](https://github.com/PerilousBooklet/project-manager) -->
