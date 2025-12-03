@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerilousBooklet&theme=dark" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PerilousBooklet&theme=dark&show=prs_merged" alt="GitHub Stats" height="200"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerilousBooklet&layout=compact&hide=jupyter%20notebook,dart,php,python,c%2B%2B&theme=dark" alt="Top Languages" height="200"/>
 </p>
