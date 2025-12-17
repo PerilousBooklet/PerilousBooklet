@@ -18,6 +18,6 @@ See [my projects](https://perilousbooklet.github.io/public/pages/cv.html).
 
 ## Where to Find Me
 
-- [EMAIL](mailto:raffaele.orabona@protonmail.com)
+- [EMail](mailto:raffaele.orabona@protonmail.com)
 - [Linkedin](https://www.linkedin.com/in/raffaele-orabona-03821b231/)
 - [Lite XL's Discord Server](https://discord.gg/47gNc6YMW3)
