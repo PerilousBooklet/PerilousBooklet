@@ -14,7 +14,7 @@ See [my CV](https://perilousbooklet.github.io/public/pages/cv.html).
 
 ## My Projects
 
-See [my projects](https://perilousbooklet.github.io/public/pages/cv.html).
+See [my projects](https://perilousbooklet.github.io/public/pages/projects.html).
 
 ## Where to Find Me
 
